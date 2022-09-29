@@ -1,4 +1,4 @@
-# Effect of Skip Connections in CNN
+# Effect of Skip Connections in Shallow Network
 
 ## Description
 
